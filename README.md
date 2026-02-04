@@ -1,7 +1,7 @@
 # 🚀 ProTrack
 
 <div align="center">
-  <img src="images/banner.png" alt="ProTrack Banner" width="800"/>
+  <img src="./images/banner.png" alt="ProTrack Banner" width="800"/>
   
   ### **Plan. Track. Deliver.**
   
@@ -190,13 +190,13 @@ npm start
 <div align="center">
 
 ### 🏠 Dashboard Overview
-<img src="images/dashboard.png" alt="ProTrack Dashboard" width="700"/>
+<img src="./images/dashboard.png" alt="ProTrack Dashboard" width="700"/>
 
 ### 🎯 Goal Setting Interface
-<img src="images/goals.png" alt="Goal Management" width="700"/>
+<img src="./images/goals.png" alt="Goal Management" width="700"/>
 
 ### 📊 Analytics & Reports
-<img src="images/analytics.png" alt="Analytics Dashboard" width="700"/>
+<img src="./images/analytics.png" alt="Analytics Dashboard" width="700"/>
 
 </div>
 
