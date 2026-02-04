@@ -88,29 +88,69 @@ ProTrack is a modern web-based project management dashboard designed to help tea
 ## 📂 Project Structure
 
 ```
-protrack/
-├── 📁 .vscode/              # Development environment settings
-├── 📁 contents/             # Documentation and project notes
-├── 📁 css/                  # Stylesheets and themes
-│   ├── main.css
-│   ├── dashboard.css
-│   └── responsive.css
-├── 📁 images/               # Visual assets and screenshots
-│   ├── banner.png
-│   ├── dashboard.png
-│   └── screenshots/
-├── 📁 js/                   # JavaScript modules
-│   ├── auth.js
-│   ├── dashboard.js
-│   ├── analytics.js
-│   └── utils.js
-├── 📁 public/               # Static HTML files
-│   ├── index.html
-│   └── favicon.ico
-├── 📁 src/                  # React components (if applicable)
-├── 📄 *.html                # Main application pages
-├── 📦 package.json          # Project dependencies
-└── 📖 README.md             # You are here!
+ProTrack/
+├── .gitIgnore
+├── Landing-Page-React.zip
+├── README.md
+├── activityTracking.html
+├── analytics.html
+├── billing-getaway.html
+├── contents/
+│   ├── .DS_Store
+│   ├── css/
+│   │   ├── activityTracking.css
+│   │   ├── analytics.css
+│   │   ├── billing.css
+│   │   ├── dashboard.css
+│   │   ├── goalSetting.css
+│   │   ├── login.css
+│   │   ├── queries.css
+│   │   ├── reports.css
+│   │   ├── setting.css
+│   │   ├── style.css
+│   │   └── todo.css
+│   ├── images/
+│   │   ├── IndianFlag.jpg
+│   │   ├── analytics.jpg
+│   │   ├── analytics.png
+│   │   ├── app-store.png
+│   │   ├── banner.png
+│   │   ├── calender.jpg
+│   │   ├── dashboard.png
+│   │   ├── download-app.png
+│   │   ├── favicon.png
+│   │   ├── female.png
+│   │   ├── goals.png
+│   │   ├── google-play.png
+│   │   ├── header-shape.svg
+│   │   ├── hero-image.svg
+│   │   ├── log-ProTrack.png
+│   │   ├── login_img.svg
+│   │   ├── logo.png
+│   │   ├── male.png
+│   │   ├── preloader.gif
+│   │   ├── register_img.svg
+│   │   ├── student-1.jpg
+│   │   ├── student-2.jpg
+│   │   ├── testimonial-bg.jpg
+│   │   ├── tracking.jpg
+│   │   └── user.png
+│   └── js/
+│       ├── billing.js
+│       ├── charts.js
+│       ├── dashboard.js
+│       ├── goalSetting.js
+│       ├── login.js
+│       ├── script.js
+│       ├── settings.js
+│       └── todo.js
+├── dashboard.html
+├── goalSetting.html
+├── index.html
+├── login.html
+├── reports.html
+├── settings.html
+└── todo.html
 ```
 
 ---
