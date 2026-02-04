@@ -1,7 +1,7 @@
 # 🚀 ProTrack
 
 <div align="center">
-  <img src="./images/banner.png" alt="ProTrack Banner" width="800"/>
+  <img src="./contents/images/banner.png" alt="ProTrack Banner" width="800"/>
   
   ### **Plan. Track. Deliver.**
   
